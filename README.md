@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ......
 - ⚡ Fun fact: ...
 -->
-<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arpanaditya&linkedin=arpan-aditya&twitter=adityaa_sahoo" href="https://linktr.ee/arpanaditya"/> 
+
 -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shrankhla20&label=Profile%20views&color=0e75b6&style=flat" alt="mdtahseenraza" /> </p>
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
-<a href="https://twitter.com/shrankhla3](https://twitter.com/Raj99936141)">
+<a href="https://twitter.com/Raj99936141">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.linkedin.com/in/md-tahseen-raza-47726625b/">
