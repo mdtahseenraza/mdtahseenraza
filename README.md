@@ -1,5 +1,5 @@
 <!--
-**Md Tahseen Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there myself Md Tahseen Raza I am a data enthusiast and currently pursuing B.Tech from Sharda University 
 
 Here are some ideas to get you started:
 
