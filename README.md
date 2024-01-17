@@ -1,7 +1,5 @@
-### Hi there 🌸
-
 <!--
-**shrankhla20/shrankhla20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Md Tahseen Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,14 +8,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: ......
 - ⚡ Fun fact: ...
 -->
 <!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arpanaditya&linkedin=arpan-aditya&twitter=adityaa_sahoo" href="https://linktr.ee/arpanaditya"/> 
 -->
-
-- Pronouns: She/her
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shrankhla20&label=Profile%20views&color=0e75b6&style=flat" alt="shrankhla20" /> </p>
 
 ---
