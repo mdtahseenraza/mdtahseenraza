@@ -77,12 +77,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
----
-
-[![Shrankhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrankhla20&hide=prs,issues&theme=gruvbox)](https://github.com/shrankhla20/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrankhla20&layout=compact&theme=gruvbox)](https://github.com/shrankhla20/github-readme-stats)
 
 
 <p align="center"> <img src="https://github.com/shrankhla20/shrankhla20/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
 
-<h3 align="center">Thank you for being here. Would love to interact😃 </h3>
+<h3 align="center">Thank you for being here. </h3>
