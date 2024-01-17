@@ -78,7 +78,4 @@ Here are some ideas to get you started:
 </p>
 
 
-
-<p align="center"> <img src="https://github.com/shrankhla20/shrankhla20/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
-
 <h3 align="center">Thank you for being here. </h3>
