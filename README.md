@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
-<a href="https://twitter.com/shrankhla3">
+<a href="[https://twitter.com/shrankhla3](https://twitter.com/Raj99936141)">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://linkedin.com/in/shrankhla-srivastava-igdtuw/">
+<a href="https://www.linkedin.com/in/md-tahseen-raza-47726625b/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://instagram.com/shrankhla_srivastava">
+<a href="https://www.instagram.com/r.a.j.xd/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:shrankhla.srivastava@gmail.com">
+<a href="mailto:tahseenraza12803@gmail.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
