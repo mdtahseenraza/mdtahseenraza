@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
-<a href="[https://twitter.com/shrankhla3](https://twitter.com/Raj99936141)">
+<a href="https://twitter.com/shrankhla3](https://twitter.com/Raj99936141)">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.linkedin.com/in/md-tahseen-raza-47726625b/">
