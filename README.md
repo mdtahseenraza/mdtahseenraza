@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Will Update Portfolio Soon!]
 
-- 📝 I regularly write articles on [https//justpctech.com](justpctech.com)
+- 📝 I regularly write articles on [https://justpctech.com](justpctech.com)
 
 - 📫 Reach me @ = **tahseenraza12803@gmail.com**
 
