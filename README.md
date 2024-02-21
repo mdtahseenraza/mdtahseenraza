@@ -7,7 +7,7 @@
 
 - ✔Google Cloud Profile Badges [Badges⭐](https://www.cloudskillsboost.google/profile/badges)
 
-- 👨‍💻 All of my projects are available at [Will Update Soon!]
+- 👨‍💻 All of my projects are available at [Will Update Portfolio Soon!]
 
 - 📝 I regularly write articles on [justpctech.com](justpctech.com)
 
