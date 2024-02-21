@@ -28,7 +28,7 @@
 
 - 📫 Reach me @ = **tahseenraza12803@gmail.com**
 
-- 💻Resume(Last Update - 21/02/2024) [https://bit.ly/3T70G8v](https://bit.ly/3T70G8v)
+- 💻Resume(Last Update - 21/02/2024) [https://bit.ly/3T70G8v]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
