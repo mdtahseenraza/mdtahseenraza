@@ -5,7 +5,7 @@
 
 - 💻**I am a Data Science (Student) and Google Cloud Associate at Google Cloud with a strong track record of completing various skill badges on the Google Skill Boost platform. My expertise lies in leveraging Google Cloud technologies to design, develop, and implement scalable and efficient data solutions.Growth with Data Flow with data. I am passionate about staying updated with the latest trends in Machine Learning and cloud computing with continuously improving my skills to deliver high-quality results.** [Repo's](https://github.com/mdtahseenraza?tab=repositories)
 
-- ✔Google Cloud Profile Badges [**Badges⭐**](https://www.cloudskillsboost.google/profile/badges)
+- ✔Google Cloud Profile Badges [**Badges⭐**][(https://www.cloudskillsboost.google/profile/badges)](https://www.cloudskillsboost.google/public_profiles/0144fcc1-36bd-4ec1-bfb1-e425489105c4)
 
 - 👨‍💻 All of my projects are available at [Will Update Portfolio Soon!]
 
