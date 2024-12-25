@@ -7,7 +7,7 @@
 
 - ✔Google Cloud Profile Badges [**Badges⭐**][(https://www.cloudskillsboost.google/profile/badges)](https://www.cloudskillsboost.google/public_profiles/0144fcc1-36bd-4ec1-bfb1-e425489105c4)
 
-- 👨‍💻 All of my projects are available at [Will Update Portfolio Soon!]
+- 👨‍💻 All of my projects are available at [https://www.portfolio-tahseen.netlify.app]
 - ✅ Live Projects -[https://www.pdfbytahseen.netlify.app]
 - 📝 I regularly write articles on [https://justpctech.com]
 
